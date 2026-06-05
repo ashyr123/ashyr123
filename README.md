@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ashyr+Dovranov+%F0%9F%91%8B;Backend+%26+AI+Developer+%E2%9A%99%EF%B8%8F;Telegram+Bot+Specialist+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 **I build intelligent bots, automation systems and AI-powered tools with Python.**
 
 <br>
 
-<!-- Social badges -->
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/webdovranov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyr5941@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashyr123)
+
 </div>
 
 ---
@@ -51,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashyr123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashyr123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=ashyr123&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
@@ -72,20 +71,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashyr123/ashyr123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashyr123/ashyr123/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ashyr123/ashyr123/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📍 About Me
 
 <div align="center">
@@ -93,7 +78,7 @@
 | | |
 |---|---|
 | 🧑‍💻 **Name** | Ashyr Dovranov |
-| 📍 **Location** | Belarus by |
+| 📍 **Location** | Belarus |
 | 🎯 **Focus** | Telegram Bots · AI Integration · Automation |
 | 📚 **Learning** | Advanced AI/ML · Blockchain · CI/CD |
 | ⚡ **Also know** | n8n Workflow Automation |
