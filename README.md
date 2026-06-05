@@ -46,31 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashyr123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=ashyr123&theme=tokyonight&hide_border=true" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashyr123&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashyr123&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📍 About Me
 
 <div align="center">
