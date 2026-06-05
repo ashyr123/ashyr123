@@ -39,6 +39,9 @@
 |---|---|---|---|
 | 🍳 | **[Chef.AI](#)** | AI-powered recipe & calorie Telegram bot | `Python` `Perplexity API` `SQLite` |
 | 🌿 | **[EcoScaner](#)** | Eco product scanner bot | `Python` `Telegram Bot API` |
+| 📧 | **[Gmail AI Automation](#)** | Auto email processing — spam filter, categorization, auto-reply, Notion & Calendar sync | `n8n` `OpenAI` `Gmail API` `Notion` `Google Calendar` |
+| 📅 | **[Smart Reservation Assistant](#)** | AI-powered Telegram reservation bot — availability check, duplicate prevention, SMS confirm | `n8n` `OpenAI` `Telegram` `Google Sheets` |
+| 🎓 | **[BilimWay Chat Manager](#)** | Omnichannel AI support — Telegram, TikTok, Instagram, Gmail with CRM & knowledge base | `n8n` `OpenAI` `ManyChat` `Google Drive` `Google Sheets` |
 
 </div>
 
