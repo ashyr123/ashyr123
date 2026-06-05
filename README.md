@@ -37,11 +37,11 @@
 
 | | Project | Description | Stack |
 |---|---|---|---|
-| 🍳 | **[Chef.AI](#)** | AI-powered recipe & calorie Telegram bot | `Python` `Perplexity API` `SQLite` |
-| 🌿 | **[EcoScaner](#)** | Eco product scanner bot | `Python` `Telegram Bot API` |
-| 📧 | **[Gmail AI Automation](#)** | Auto email processing — spam filter, categorization, auto-reply, Notion & Calendar sync | `n8n` `OpenAI` `Gmail API` `Notion` `Google Calendar` |
-| 📅 | **[Smart Reservation Assistant](#)** | AI-powered Telegram reservation bot — availability check, duplicate prevention, SMS confirm | `n8n` `OpenAI` `Telegram` `Google Sheets` |
-| 🎓 | **[BilimWay Chat Manager](#)** | Omnichannel AI support — Telegram, TikTok, Instagram, Gmail with CRM & knowledge base | `n8n` `OpenAI` `ManyChat` `Google Drive` `Google Sheets` |
+| 🍳 | **[Chef.AI](https://github.com/ashyr123/aspez.ai)** | AI-powered recipe & calorie Telegram bot | `Python` `Perplexity API` `SQLite` |
+| 🌿 | **[EcoScaner](https://github.com/ashyr123/ekoskaner)** | Eco product scanner bot | `Python` `Telegram Bot API` |
+| 📧 | **[Gmail AI Automation](https://github.com/ashyr123/mailto)** | Auto email processing — spam filter, categorization, auto-reply, Notion & Calendar sync | `n8n` `OpenAI` `Gmail API` `Notion` |
+| 📅 | **[Smart Reservation Assistant](https://github.com/ashyr123/rezerve-assistant)** | AI Telegram reservation bot — availability check, duplicate prevention, SMS confirm | `n8n` `OpenAI` `Telegram` `Google Sheets` |
+| 🎓 | **[BilimWay Chat Manager](https://github.com/ashyr123/n8n-bilimway)** | Omnichannel AI support — Telegram, TikTok, Instagram, Gmail with CRM | `n8n` `OpenAI` `ManyChat` `Google Drive` |
 
 </div>
 
